@@ -1,11 +1,3 @@
-# T06_G05
-- Bruno Huang (up202207517) - 50%
-- Ricardo Yang (up202208465) - 50%
-
-## Brief description of the tasks each one performed
-
-We collaborated on the first seven questions, exchanging ideas, and then Bruno tackled the shortest path problem while Ricardo worked on the traveling salesman problem.
-
 ## Shortest Path Function
 
 1. Data Structure Selection and Conversion
